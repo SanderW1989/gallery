@@ -1,0 +1,52 @@
+/* body { padding-top: 70px; }
+.jumbotron {
+  color: #2c3e50;
+  background: #ecf0f1;
+
+}
+.navbar-inverse {
+  background: #2c3e50;
+  color: white;
+}
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+  color:white;
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}  */
+
+
+.padder {
+    padding-top: 70px;
+    /* border: 1px solid powderblue; */
+}
+
+
+.jumbotron {
+    color: #2c3e50;
+    padding: 0.9em 0.9em;
+    margin-top: 30px;
+    /* border: 1px solid powderblue; */
+    
+}
+
+
+/* 
+    h1 {
+        font-size: 2em;
+    }
+    p {
+        font-size: 1.2em;
+        .btn {
+            padding: 0.5em;
+        }
+    }
+} */
+
+
+/*
+
+in main:  <div style="background-color: #adecf4 !important" class="jumbotron">
+
+
+*/
